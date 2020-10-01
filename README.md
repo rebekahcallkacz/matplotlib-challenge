@@ -10,7 +10,7 @@ The purpose of this script is to analyze cancer drug trial data.
 In this study, ten cancer drugs were tested to observe if they had any effect on reducing tumor growth. 249 mice with SCC tumor growth were treated with one of the ten drug regimens for 45 days. Tumor volume was measured every 5 days. 
 
 ## Datasets
-Two datasets were used in this analysis: mice metadata and study data which included tumor volume at the observed timepoints. One mouse was removed from the dataset due to duplicate conflicting observations at multiple timepoints for a total of 248 mice in the final analysis.
+Two datasets were used in this analysis: mice metadata and study data which included tumor volume at the observed timepoints. One mouse was removed from the dataset due to conflicting observations at multiple timepoints for a total of 248 mice in the final analysis.
 
 ![alt text](https://github.com/rebekahcallkacz/matplotlib-challenge/blob/master/Pymaceuticals/Images/mousemetadata.jpg "Mouse Metadata")
 
