@@ -1,5 +1,5 @@
 # matplotlib-challenge: Pymaceuticals
-======================================================
+
 Version: 1.0.0
 
 Description
@@ -31,9 +31,6 @@ As can be seen from the linear regression and scatter plot below, average final 
 
 ## Limitations
  
-
-## References
-
 
 Contributors
 ----------------
