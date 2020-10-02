@@ -30,7 +30,7 @@ As can be seen from the linear regression and scatter plot below, average final 
 ![alt text](https://github.com/rebekahcallkacz/matplotlib-challenge/blob/master/Pymaceuticals/Images/linearregressiontumorweight.png "Final Tumor Volume by Weight")
 
 ## Limitations
- 
+ Although there seems to be limited data which suggests that Capomulin and Ramicane have some effect on tumor volume, further analysis would be needed to determine if this effect is significant. In addition, no additional data was collected on the effects of the drugs which would be necessary before concluding that this drug was both safe and effective.
 
 Contributors
 ----------------
